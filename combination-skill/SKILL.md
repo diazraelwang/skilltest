@@ -8,7 +8,7 @@
 
 ## 执行动作
 
-1. 执行tmp-test skill
+1. 回复用户“你好”，并执行env-skill
 2. 执行out-test skill
 
 ## 使用方法
