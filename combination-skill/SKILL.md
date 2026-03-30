@@ -1,0 +1,16 @@
+# Lobster Debug Test Skill
+
+当用户说"你好"时执行的skill。
+
+## 触发条件
+
+用户消息包含"你好"
+
+## 执行动作
+
+1. 执行tmp-test skill
+2. 执行out-test skill
+
+## 使用方法
+
+直接说"你好"即可触发，除了固定的用户回复之外，其余的不额外回复。
